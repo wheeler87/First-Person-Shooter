@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<location id="1" source="assets/locationDescription1.xml"/>
+	
+	<player id="10" speed="400" turnSpeed="60" hitpoints="100"  boundRadius="10" height="100" defaultWeaponID="30" />;
+	
+	<enemy id="20" speed="100" turnSpeed="90" hitpoints="20"  boundRadius="100" height="80" cogitationTime="500" rememberTime="3000" defaultWeaponID="30" animationGroupID="300" deathDuration="1000" />
+	
+	<weapon id="30" reloadingTime="3000" slugID="40" attackDistanceMax="200" attackDistanceMin="100" animationGroupID="301" cageCapacity="7" shootTime="800" bulletsPerShot="1" />
+	<weapon id="31" reloadingTime="1800" slugID="41" attackDistanceMax="200" attackDistanceMin="100" animationGroupID="302" cageCapacity="20" shootTime="800" bulletsPerShot="4" />
+	
+	<slug id="40" type="bullet" damage="10" velocity="1500" boundRadius="10" />
+	<slug id="41" type="bullet" damage="5" velocity="1500" boundRadius="10" />
+	
+	
+	<tilesheet id="100" source="abe_s" tileWidth="80" tileHeight="100" totalTiles="6"/>
+	<tilesheet id="101" source="abe_n" tileWidth="80" tileHeight="100" totalTiles="6"/>
+	<tilesheet id="102" source="abe_w" tileWidth="80" tileHeight="100" totalTiles="6"/>
+	<tilesheet id="103" source="abe_e" tileWidth="80" tileHeight="100" totalTiles="6"/>
+	
+	<tilesheet id="104" source="gun" tileWidth="260" tileHeight="150" totalTiles="11"/>
+	<tilesheet id="105" source="abe_death" tileWidth="100" tileHeight="100" totalTiles="6"/>
+	
+	<tilesheet id="106" source="abe_sw" tileWidth="80" tileHeight="100" totalTiles="6"/>
+	<tilesheet id="107" source="abe_nw" tileWidth="80" tileHeight="100" totalTiles="6"/>
+	<tilesheet id="108" source="abe_ne" tileWidth="80" tileHeight="100" totalTiles="6"/>
+	<tilesheet id="109" source="abe_se" tileWidth="80" tileHeight="100" totalTiles="6"/>
+	
+	<tilesheet id="110" source="gun2" tileWidth="185" tileHeight="160" totalTiles="12"/>
+	
+	<animation id="200" tilesheetID="100" name="abe_idle_s" sequence="0" frameRate="2" directions="s" 						offsetX="0" offsetY="0" />
+	<animation id="201" tilesheetID="100" name="abe_walk_s" sequence="1,0,2,0" frameRate="3" directions="s" 				offsetX="0" offsetY="0"/>
+	<animation id="202" tilesheetID="100" name="abe_fire_s" sequence="0,3,4,3,4" frameRate="4"directions="s" 				offsetX="0" offsetY="0"/>
+	<animation id="203" tilesheetID="100" name="abe_hit_s" sequence="0,5" frameRate="2" directions="s" 						offsetX="0" offsetY="0"/>
+	
+	<animation id="204" tilesheetID="101" name="abe_idle_n" sequence="0" frameRate="2" directions="n" 						offsetX="0" offsetY="0"/>
+	<animation id="205" tilesheetID="101" name="abe_walk_n" sequence="1,2" frameRate="2" directions="n" 					offsetX="0" offsetY="0"/>
+	<animation id="206" tilesheetID="101" name="abe_fire_n" sequence="0,3,4,3,4" frameRate="4"directions="n" 				offsetX="0" offsetY="0"/>
+	<animation id="207" tilesheetID="101" name="abe_hit_n" sequence="0,5" frameRate="2" directions="n" 						offsetX="0" offsetY="0"/>
+	
+	<animation id="208" tilesheetID="102" name="abe_idle_w" sequence="0" frameRate="2" directions="w" 						offsetX="0" offsetY="0"/>
+	<animation id="209" tilesheetID="102" name="abe_walk_w" sequence="1,0,2,0" frameRate="3" directions="w" 				offsetX="0" offsetY="0"/>
+	<animation id="210" tilesheetID="102" name="abe_fire_w" sequence="0,3,4,3,4" frameRate="4"directions="w"				offsetX="0" offsetY="0"/>
+	<animation id="211" tilesheetID="102" name="abe_hit_w" sequence="0,5" frameRate="2" directions="w"						offsetX="0" offsetY="0"/>
+	
+	<animation id="212" tilesheetID="103" name="abe_idle_e" sequence="0" frameRate="2" directions="e" 						offsetX="0" offsetY="0"/>
+	<animation id="213" tilesheetID="103" name="abe_walk_e" sequence="1,0,2,0" frameRate="3" directions="e" 				offsetX="0" offsetY="0"/>
+	<animation id="214" tilesheetID="103" name="abe_fire_e" sequence="0,3,4,3,4" frameRate="4"directions="e" 				offsetX="0" offsetY="0"/>
+	<animation id="215" tilesheetID="103" name="abe_hit_e" sequence="0,5" frameRate="2" directions="e" 						offsetX="0" offsetY="0"/>
+	
+	<animation id="216" tilesheetID="104" name="gun_idle" sequence="3" frameRate="2" directions="e,w,s,n,nw,ne,sw,se" 					offsetX="50" offsetY="-75"/>
+	<animation id="217" tilesheetID="104" name="gun_reloading" sequence="3,0,10,9,8,1" frameRate="2" directions="e,w,s,n,nw,ne,sw,se" 	offsetX="50" offsetY="-75"/>
+	<animation id="218" tilesheetID="104" name="gun_fire" sequence="3,2,4,5,6,7" frameRate="8" directions="e,w,s,n,nw,ne,sw,se" 		offsetX="50" offsetY="-75"/>
+	<animation id="219" tilesheetID="105" name="abe_death" sequence="0,1,2,3,4,5" frameRate="6" directions="e,w,s,n,nw,ne,sw,se" 		offsetX="0" offsetY="0"/>
+	
+	<animation id="220" tilesheetID="106" name="abe_idle_sw" sequence="0" frameRate="2" directions="sw" 						offsetX="0" offsetY="0"/>
+	<animation id="221" tilesheetID="106" name="abe_walk_sw" sequence="1,0,2,0" frameRate="3" directions="sw" 					offsetX="0" offsetY="0"/>
+	<animation id="222" tilesheetID="106" name="abe_fire_sw" sequence="0,3,4,3,4" frameRate="4"directions="sw" 				offsetX="0" offsetY="0"/>
+	<animation id="223" tilesheetID="106" name="abe_hit_sw" sequence="0,5" frameRate="2" directions="sw" 						offsetX="0" offsetY="0"/>
+	
+	<animation id="224" tilesheetID="107" name="abe_idle_nw" sequence="0" frameRate="2" directions="nw" 						offsetX="0" offsetY="0"/>
+	<animation id="225" tilesheetID="107" name="abe_walk_nw" sequence="1,0,2,0" frameRate="3" directions="nw" 					offsetX="0" offsetY="0"/>
+	<animation id="226" tilesheetID="107" name="abe_fire_nw" sequence="0,3,4,3,4" frameRate="4"directions="nw" 				offsetX="0" offsetY="0"/>
+	<animation id="227" tilesheetID="107" name="abe_hit_nw" sequence="0,5" frameRate="2" directions="nw" 						offsetX="0" offsetY="0"/>
+	
+	<animation id="228" tilesheetID="108" name="abe_idle_ne" sequence="0" frameRate="2" directions="ne" 						offsetX="0" offsetY="0"/>
+	<animation id="229" tilesheetID="108" name="abe_walk_ne" sequence="1,0,2,0" frameRate="3" directions="ne" 					offsetX="0" offsetY="0"/>
+	<animation id="230" tilesheetID="108" name="abe_fire_ne" sequence="0,3,4,3,4" frameRate="4"directions="ne" 				offsetX="0" offsetY="0"/>
+	<animation id="231" tilesheetID="108" name="abe_hit_ne" sequence="0,5" frameRate="2" directions="ne" 						offsetX="0" offsetY="0"/>
+	
+	<animation id="232" tilesheetID="109" name="abe_idle_se" sequence="0" frameRate="2" directions="se" 						offsetX="0" offsetY="0"/>
+	<animation id="233" tilesheetID="109" name="abe_walk_se" sequence="1,0,2,0" frameRate="3" directions="se" 					offsetX="0" offsetY="0"/>
+	<animation id="234" tilesheetID="109" name="abe_fire_se" sequence="0,3,4,3,4" frameRate="4"directions="se" 				offsetX="0" offsetY="0"/>
+	<animation id="235" tilesheetID="109" name="abe_hit_se" sequence="0,5" frameRate="2" directions="se" 						offsetX="0" offsetY="0"/>
+	
+	<animation id="236" tilesheetID="110" name="gun_idle" sequence="0" frameRate="2" directions="e,w,s,n,nw,ne,sw,se" 					offsetX="50" offsetY="-75"/>
+	<animation id="237" tilesheetID="110" name="gun_reloading" sequence="0,10,4,5,6,7,8,9,11" frameRate="6" directions="e,w,s,n,nw,ne,sw,se" 	offsetX="50" offsetY="-75"/>
+	<animation id="238" tilesheetID="110" name="gun_fire" sequence="0,1,2,3" frameRate="6" directions="e,w,s,n,nw,ne,sw,se" 		offsetX="50" offsetY="-75"/>
+	
+	<animationGroup id="300" scale="1.5" 
+					animations="200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235" 
+					defaultAnimations="200,204,208,212,220,224,228,232">
+		<trigger name="walking" priority="4" animations="201,205,209,213,221,225,229,233"/>
+		<trigger name="fire" 	priority="3" animations="202,206,210,214,222,226,230,234"/>
+		<trigger name="hit" 	priority="2" animations="203,207,211,215,223,227,231,235"/>
+		<trigger name="death" 	priority="1" animations="219"/>
+	</animationGroup>
+	<animationGroup id="301" scale="1.5" animations="216,217,218" defaultAnimations="216">
+		<trigger name="fire" 	priority="2" animations="218"/>
+		<trigger name="reload_start" 	priority="1" animations="217"/>
+	</animationGroup>
+	<animationGroup id="302" scale="1.5" animations="236,237,238" defaultAnimations="236">
+		<trigger name="fire" 	priority="2" animations="238"/>
+		<trigger name="reload_start" 	priority="1" animations="237"/>
+	</animationGroup>
+	<instructions>
+		<controllText>
+			Use arrow keys to move, space to fire, numbers to change weapon.
+		</controllText>
+		<aboutGameText>
+			This game was made only for learning purposes.Graphics were taken from spriters-resource.com.
+		</aboutGameText>
+	</instructions>
+	<homepage url="http://gamestore.ucoz.com/" />
+	
+</data>

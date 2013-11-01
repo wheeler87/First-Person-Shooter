@@ -1,0 +1,381 @@
+<location tileSize="64" tilesSource="assets/WolfensteinTiles.swf" locationWidth="1920" locationHeight="192" locationDepth="1920">
+  <wall columns="30" rows="30" tiles="tile0,tile52,tile0,tile0,tile0,tile0,tile50,tile46,tile50,tile50,tile0,tile0,tile0,tile0,tile50,tile46,tile50,tile52,tile0,tile52,tile0,tile0,tile0,tile0,tile50,tile46,tile50,tile52,tile0,tile52,tile52,tile36,tile48,tile48,tile67,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile105,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile0,tile80,tile89,tile105,tile75,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile105,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile0,tile87,tile85,tile71,tile67,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile105,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile52,tile0,tile46,tile50,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile105,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile46,tile105,tile46,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile105,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile46,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile50,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile46,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile89,tile89,tile89,tile89,tile89,tile89,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile89,tile85,tile85,tile85,tile85,tile89,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile50,tile0,tile0,tile0,tile50,tile46,tile50,tile50,tile89,tile36,tile36,tile36,tile89,tile85,tile85,tile85,tile85,tile89,tile36,tile36,tile36,tile89,tile50,tile50,tile46,tile50,tile0,tile0,tile0,tile50,tile46,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile89,tile36,tile36,tile36,tile89,tile85,tile85,tile85,tile85,tile89,tile36,tile36,tile36,tile89,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile46,tile50,tile0,tile0,tile0,tile50,tile46,tile50,tile50,tile89,tile36,tile36,tile36,tile89,tile85,tile85,tile85,tile85,tile89,tile36,tile36,tile36,tile89,tile50,tile50,tile46,tile50,tile0,tile0,tile0,tile50,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile89,tile89,tile89,tile89,tile89,tile89,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile36,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile89,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile50,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile105,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile46,tile105,tile46,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile46,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile105,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile46,tile50,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile105,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile50,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile105,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile52,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile0,tile85,tile0,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile105,tile52,tile0,tile52,tile0,tile0,tile0,tile0,tile50,tile46,tile50,tile50,tile0,tile0,tile0,tile0,tile50,tile46,tile50,tile52,tile0,tile52,tile0,tile0,tile0,tile0,tile50,tile46,tile50,tile52,tile0,tile52" originX="0" originY="192" originZ="1920" angleX="-1.5707963267948966" angleY="0"/>
+  <wall columns="30" rows="30" tiles="tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22,tile22" originX="0" originY="0" originZ="0" angleX="1.5707963267948966" angleY="0"/>
+  <wall columns="30" rows="3" tiles="tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile50,tile0,tile0,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile0,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0" originX="0" originY="0" originZ="1920" angleX="0" angleY="0"/>
+  <wall columns="30" rows="3" tiles="tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile50,tile0,tile0,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile0,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0" originX="1920" originY="0" originZ="0" angleX="0" angleY="3.141592653589793"/>
+  <wall columns="30" rows="3" tiles="tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile50,tile0,tile0,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile0,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0" originX="1920" originY="0" originZ="1920" angleX="0" angleY="1.5707047140533978"/>
+  <wall columns="30" rows="3" tiles="tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile50,tile50,tile0,tile0,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile50,tile0,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0,tile0" originX="0" originY="0" originZ="0" angleX="0" angleY="-1.5707047140533978"/>
+  <wall columns="8" rows="3" tiles="tile0,tile0,tile0,tile50,tile50,tile50,tile50,tile46,tile0,tile0,tile50,tile50,tile50,tile46,tile46,tile46,tile0,tile0,tile50,tile50,tile50,tile50,tile46,tile46" originX="0" originY="0" originZ="832" angleX="0" angleY="0"/>
+  <wall columns="8" rows="3" tiles="tile0,tile0,tile0,tile50,tile50,tile50,tile50,tile46,tile0,tile0,tile50,tile50,tile50,tile46,tile46,tile46,tile0,tile0,tile50,tile50,tile50,tile50,tile46,tile46" originX="1920" originY="0" originZ="1024" angleX="0" angleY="3.141592653589793"/>
+  <wall columns="8" rows="3" tiles="tile0,tile0,tile0,tile50,tile50,tile50,tile50,tile46,tile0,tile0,tile50,tile50,tile50,tile46,tile46,tile46,tile0,tile0,tile50,tile50,tile50,tile50,tile46,tile46" originX="896" originY="0" originZ="1920" angleX="0" angleY="1.5707047140533978"/>
+  <wall columns="8" rows="3" tiles="tile0,tile0,tile0,tile50,tile50,tile50,tile50,tile46,tile0,tile0,tile50,tile50,tile50,tile46,tile46,tile46,tile0,tile0,tile50,tile50,tile50,tile50,tile46,tile46" originX="1088" originY="0" originZ="0" angleX="0" angleY="-1.5707047140533978"/>
+  <wall columns="8" rows="3" tiles="tile46,tile50,tile50,tile50,tile50,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile46,tile46,tile50,tile50,tile50,tile50,tile0,tile0" originX="512" originY="0" originZ="1024" angleX="0" angleY="3.141592653589793"/>
+  <wall columns="8" rows="3" tiles="tile46,tile50,tile50,tile50,tile50,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile46,tile46,tile50,tile50,tile50,tile50,tile0,tile0" originX="1408" originY="0" originZ="832" angleX="0" angleY="0"/>
+  <wall columns="8" rows="3" tiles="tile46,tile50,tile50,tile50,tile50,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile46,tile46,tile50,tile50,tile50,tile50,tile0,tile0" originX="896" originY="0" originZ="512" angleX="0" angleY="1.5707047140533978"/>
+  <wall columns="8" rows="3" tiles="tile46,tile50,tile50,tile50,tile50,tile0,tile0,tile0,tile46,tile46,tile46,tile50,tile50,tile50,tile0,tile0,tile46,tile46,tile50,tile50,tile50,tile50,tile0,tile0" originX="1088" originY="0" originZ="1408" angleX="0" angleY="-1.5707047140533978"/>
+  <wall columns="3" rows="3" tiles="tile46,tile46,tile46,tile46,tile46,tile46,tile46,tile46,tile46" originX="896" originY="0" originZ="1408" angleX="0" angleY="0"/>
+  <wall columns="3" rows="3" tiles="tile46,tile46,tile46,tile46,tile46,tile46,tile46,tile46,tile46" originX="1408" originY="0" originZ="1024" angleX="0" angleY="1.5707047140533978"/>
+  <wall columns="3" rows="3" tiles="tile46,tile46,tile46,tile46,tile46,tile46,tile46,tile46,tile46" originX="1088" originY="0" originZ="512" angleX="0" angleY="3.141592653589793"/>
+  <wall columns="3" rows="3" tiles="tile46,tile46,tile46,tile46,tile46,tile46,tile46,tile46,tile46" originX="512" originY="0" originZ="832" angleX="0" angleY="-1.5707047140533978"/>
+  <wall columns="4" rows="3" tiles="tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85" originX="832" originY="0" originZ="1088" angleX="0" angleY="1.5707047140533978"/>
+  <wall columns="4" rows="3" tiles="tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85" originX="832" originY="0" originZ="832" angleX="0" angleY="0"/>
+  <wall columns="4" rows="3" tiles="tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85" originX="1088" originY="0" originZ="832" angleX="0" angleY="-1.5707047140533978"/>
+  <wall columns="4" rows="3" tiles="tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85,tile85" originX="1088" originY="0" originZ="1088" angleX="0" angleY="3.141592653589793"/>
+  <spawner x="250" y="192" z="250"/>
+  <spawner x="250" y="192" z="1670"/>
+  <spawner x="1670" y="192" z="250"/>
+  <spawner x="1670.5" y="192" z="1670"/>
+  <navigation>
+    <node index="0" x="200" z="1722.5" y="0"/>
+    <edge originNodeIndex="0" destinationNodeIndex="1"/>
+    <edge originNodeIndex="0" destinationNodeIndex="5"/>
+    <edge originNodeIndex="0" destinationNodeIndex="4"/>
+    <node index="1" x="378.95" z="1729.5" y="0"/>
+    <edge originNodeIndex="1" destinationNodeIndex="0"/>
+    <edge originNodeIndex="1" destinationNodeIndex="4"/>
+    <edge originNodeIndex="1" destinationNodeIndex="5"/>
+    <edge originNodeIndex="1" destinationNodeIndex="6"/>
+    <edge originNodeIndex="1" destinationNodeIndex="2"/>
+    <node index="2" x="572.95" z="1729.5" y="0"/>
+    <edge originNodeIndex="2" destinationNodeIndex="3"/>
+    <edge originNodeIndex="2" destinationNodeIndex="7"/>
+    <edge originNodeIndex="2" destinationNodeIndex="6"/>
+    <edge originNodeIndex="2" destinationNodeIndex="5"/>
+    <edge originNodeIndex="2" destinationNodeIndex="1"/>
+    <node index="3" x="760.95" z="1729.5" y="0"/>
+    <edge originNodeIndex="3" destinationNodeIndex="7"/>
+    <edge originNodeIndex="3" destinationNodeIndex="6"/>
+    <edge originNodeIndex="3" destinationNodeIndex="2"/>
+    <node index="4" x="184.95" z="1539.5" y="0"/>
+    <edge originNodeIndex="4" destinationNodeIndex="0"/>
+    <edge originNodeIndex="4" destinationNodeIndex="1"/>
+    <edge originNodeIndex="4" destinationNodeIndex="5"/>
+    <edge originNodeIndex="4" destinationNodeIndex="9"/>
+    <edge originNodeIndex="4" destinationNodeIndex="8"/>
+    <node index="5" x="378.95" z="1539.5" y="0"/>
+    <edge originNodeIndex="5" destinationNodeIndex="1"/>
+    <edge originNodeIndex="5" destinationNodeIndex="2"/>
+    <edge originNodeIndex="5" destinationNodeIndex="6"/>
+    <edge originNodeIndex="5" destinationNodeIndex="10"/>
+    <edge originNodeIndex="5" destinationNodeIndex="9"/>
+    <edge originNodeIndex="5" destinationNodeIndex="8"/>
+    <edge originNodeIndex="5" destinationNodeIndex="4"/>
+    <edge originNodeIndex="5" destinationNodeIndex="0"/>
+    <node index="6" x="572.95" z="1539.5" y="0"/>
+    <edge originNodeIndex="6" destinationNodeIndex="2"/>
+    <edge originNodeIndex="6" destinationNodeIndex="3"/>
+    <edge originNodeIndex="6" destinationNodeIndex="7"/>
+    <edge originNodeIndex="6" destinationNodeIndex="14"/>
+    <edge originNodeIndex="6" destinationNodeIndex="10"/>
+    <edge originNodeIndex="6" destinationNodeIndex="9"/>
+    <edge originNodeIndex="6" destinationNodeIndex="5"/>
+    <edge originNodeIndex="6" destinationNodeIndex="1"/>
+    <node index="7" x="760.95" z="1539" y="0"/>
+    <edge originNodeIndex="7" destinationNodeIndex="3"/>
+    <edge originNodeIndex="7" destinationNodeIndex="14"/>
+    <edge originNodeIndex="7" destinationNodeIndex="10"/>
+    <edge originNodeIndex="7" destinationNodeIndex="6"/>
+    <edge originNodeIndex="7" destinationNodeIndex="2"/>
+    <node index="8" x="193" z="1339.5" y="0"/>
+    <edge originNodeIndex="8" destinationNodeIndex="4"/>
+    <edge originNodeIndex="8" destinationNodeIndex="5"/>
+    <edge originNodeIndex="8" destinationNodeIndex="9"/>
+    <edge originNodeIndex="8" destinationNodeIndex="12"/>
+    <edge originNodeIndex="8" destinationNodeIndex="11"/>
+    <node index="11" x="188" z="1157.5" y="0"/>
+    <edge originNodeIndex="11" destinationNodeIndex="8"/>
+    <edge originNodeIndex="11" destinationNodeIndex="9"/>
+    <edge originNodeIndex="11" destinationNodeIndex="12"/>
+    <node index="9" x="378.95" z="1345.5" y="0"/>
+    <edge originNodeIndex="9" destinationNodeIndex="5"/>
+    <edge originNodeIndex="9" destinationNodeIndex="6"/>
+    <edge originNodeIndex="9" destinationNodeIndex="10"/>
+    <edge originNodeIndex="9" destinationNodeIndex="13"/>
+    <edge originNodeIndex="9" destinationNodeIndex="12"/>
+    <edge originNodeIndex="9" destinationNodeIndex="11"/>
+    <edge originNodeIndex="9" destinationNodeIndex="8"/>
+    <edge originNodeIndex="9" destinationNodeIndex="4"/>
+    <node index="12" x="378.95" z="1151.5" y="0"/>
+    <edge originNodeIndex="12" destinationNodeIndex="9"/>
+    <edge originNodeIndex="12" destinationNodeIndex="10"/>
+    <edge originNodeIndex="12" destinationNodeIndex="13"/>
+    <edge originNodeIndex="12" destinationNodeIndex="11"/>
+    <edge originNodeIndex="12" destinationNodeIndex="8"/>
+    <node index="10" x="572.95" z="1339.5" y="0"/>
+    <edge originNodeIndex="10" destinationNodeIndex="6"/>
+    <edge originNodeIndex="10" destinationNodeIndex="7"/>
+    <edge originNodeIndex="10" destinationNodeIndex="14"/>
+    <edge originNodeIndex="10" destinationNodeIndex="13"/>
+    <edge originNodeIndex="10" destinationNodeIndex="12"/>
+    <edge originNodeIndex="10" destinationNodeIndex="9"/>
+    <edge originNodeIndex="10" destinationNodeIndex="5"/>
+    <node index="14" x="767" z="1281.5" y="0"/>
+    <edge originNodeIndex="14" destinationNodeIndex="7"/>
+    <edge originNodeIndex="14" destinationNodeIndex="15"/>
+    <edge originNodeIndex="14" destinationNodeIndex="13"/>
+    <edge originNodeIndex="14" destinationNodeIndex="10"/>
+    <edge originNodeIndex="14" destinationNodeIndex="6"/>
+    <node index="13" x="635" z="1161.5" y="0"/>
+    <edge originNodeIndex="13" destinationNodeIndex="10"/>
+    <edge originNodeIndex="13" destinationNodeIndex="14"/>
+    <edge originNodeIndex="13" destinationNodeIndex="57"/>
+    <edge originNodeIndex="13" destinationNodeIndex="12"/>
+    <edge originNodeIndex="13" destinationNodeIndex="9"/>
+    <node index="15" x="959" z="1281.5" y="0"/>
+    <edge originNodeIndex="15" destinationNodeIndex="16"/>
+    <edge originNodeIndex="15" destinationNodeIndex="14"/>
+    <node index="16" x="1145" z="1281.5" y="0"/>
+    <edge originNodeIndex="16" destinationNodeIndex="19"/>
+    <edge originNodeIndex="16" destinationNodeIndex="18"/>
+    <edge originNodeIndex="16" destinationNodeIndex="17"/>
+    <edge originNodeIndex="16" destinationNodeIndex="28"/>
+    <edge originNodeIndex="16" destinationNodeIndex="15"/>
+    <node index="28" x="1273" z="1153.5" y="0"/>
+    <edge originNodeIndex="28" destinationNodeIndex="17"/>
+    <edge originNodeIndex="28" destinationNodeIndex="24"/>
+    <edge originNodeIndex="28" destinationNodeIndex="26"/>
+    <edge originNodeIndex="28" destinationNodeIndex="29"/>
+    <edge originNodeIndex="28" destinationNodeIndex="16"/>
+    <node index="43" x="959" z="637.5" y="0"/>
+    <edge originNodeIndex="43" destinationNodeIndex="42"/>
+    <edge originNodeIndex="43" destinationNodeIndex="44"/>
+    <node index="42" x="1153" z="637.5" y="0"/>
+    <edge originNodeIndex="42" destinationNodeIndex="30"/>
+    <edge originNodeIndex="42" destinationNodeIndex="41"/>
+    <edge originNodeIndex="42" destinationNodeIndex="40"/>
+    <edge originNodeIndex="42" destinationNodeIndex="39"/>
+    <edge originNodeIndex="42" destinationNodeIndex="43"/>
+    <node index="44" x="767" z="637.5" y="0"/>
+    <edge originNodeIndex="44" destinationNodeIndex="43"/>
+    <edge originNodeIndex="44" destinationNodeIndex="45"/>
+    <edge originNodeIndex="44" destinationNodeIndex="52"/>
+    <edge originNodeIndex="44" destinationNodeIndex="55"/>
+    <edge originNodeIndex="44" destinationNodeIndex="56"/>
+    <node index="57" x="634.95" z="961.5" y="0"/>
+    <edge originNodeIndex="57" destinationNodeIndex="13"/>
+    <edge originNodeIndex="57" destinationNodeIndex="56"/>
+    <node index="56" x="624.95" z="777.5" y="0"/>
+    <edge originNodeIndex="56" destinationNodeIndex="13"/>
+    <edge originNodeIndex="56" destinationNodeIndex="44"/>
+    <edge originNodeIndex="56" destinationNodeIndex="55"/>
+    <edge originNodeIndex="56" destinationNodeIndex="54"/>
+    <edge originNodeIndex="56" destinationNodeIndex="53"/>
+    <node index="29" x="1276.95" z="957.5" y="0"/>
+    <edge originNodeIndex="29" destinationNodeIndex="28"/>
+    <edge originNodeIndex="29" destinationNodeIndex="30"/>
+    <node index="30" x="1272.95" z="767.5" y="0"/>
+    <edge originNodeIndex="30" destinationNodeIndex="29"/>
+    <edge originNodeIndex="30" destinationNodeIndex="31"/>
+    <edge originNodeIndex="30" destinationNodeIndex="33"/>
+    <edge originNodeIndex="30" destinationNodeIndex="41"/>
+    <edge originNodeIndex="30" destinationNodeIndex="42"/>
+    <node index="55" x="573" z="587.5" y="0"/>
+    <edge originNodeIndex="55" destinationNodeIndex="56"/>
+    <edge originNodeIndex="55" destinationNodeIndex="44"/>
+    <edge originNodeIndex="55" destinationNodeIndex="45"/>
+    <edge originNodeIndex="55" destinationNodeIndex="52"/>
+    <edge originNodeIndex="55" destinationNodeIndex="51"/>
+    <edge originNodeIndex="55" destinationNodeIndex="54"/>
+    <node index="41" x="1339" z="583.5" y="0"/>
+    <edge originNodeIndex="41" destinationNodeIndex="31"/>
+    <edge originNodeIndex="41" destinationNodeIndex="33"/>
+    <edge originNodeIndex="41" destinationNodeIndex="35"/>
+    <edge originNodeIndex="41" destinationNodeIndex="40"/>
+    <edge originNodeIndex="41" destinationNodeIndex="42"/>
+    <edge originNodeIndex="41" destinationNodeIndex="30"/>
+    <node index="17" x="1345" z="1345.5" y="0"/>
+    <edge originNodeIndex="17" destinationNodeIndex="18"/>
+    <edge originNodeIndex="17" destinationNodeIndex="22"/>
+    <edge originNodeIndex="17" destinationNodeIndex="24"/>
+    <edge originNodeIndex="17" destinationNodeIndex="26"/>
+    <edge originNodeIndex="17" destinationNodeIndex="28"/>
+    <edge originNodeIndex="17" destinationNodeIndex="16"/>
+    <node index="52" x="573" z="389.5" y="0"/>
+    <edge originNodeIndex="52" destinationNodeIndex="55"/>
+    <edge originNodeIndex="52" destinationNodeIndex="45"/>
+    <edge originNodeIndex="52" destinationNodeIndex="46"/>
+    <edge originNodeIndex="52" destinationNodeIndex="47"/>
+    <edge originNodeIndex="52" destinationNodeIndex="48"/>
+    <edge originNodeIndex="52" destinationNodeIndex="51"/>
+    <edge originNodeIndex="52" destinationNodeIndex="54"/>
+    <node index="47" x="573" z="191.5" y="0"/>
+    <edge originNodeIndex="47" destinationNodeIndex="52"/>
+    <edge originNodeIndex="47" destinationNodeIndex="45"/>
+    <edge originNodeIndex="47" destinationNodeIndex="46"/>
+    <edge originNodeIndex="47" destinationNodeIndex="48"/>
+    <edge originNodeIndex="47" destinationNodeIndex="51"/>
+    <node index="54" x="379" z="574.5" y="0"/>
+    <edge originNodeIndex="54" destinationNodeIndex="56"/>
+    <edge originNodeIndex="54" destinationNodeIndex="55"/>
+    <edge originNodeIndex="54" destinationNodeIndex="52"/>
+    <edge originNodeIndex="54" destinationNodeIndex="51"/>
+    <edge originNodeIndex="54" destinationNodeIndex="50"/>
+    <edge originNodeIndex="54" destinationNodeIndex="53"/>
+    <node index="53" x="184.95" z="574.5" y="0"/>
+    <edge originNodeIndex="53" destinationNodeIndex="56"/>
+    <edge originNodeIndex="53" destinationNodeIndex="54"/>
+    <edge originNodeIndex="53" destinationNodeIndex="51"/>
+    <edge originNodeIndex="53" destinationNodeIndex="50"/>
+    <node index="50" x="184.95" z="385" y="0"/>
+    <edge originNodeIndex="50" destinationNodeIndex="53"/>
+    <edge originNodeIndex="50" destinationNodeIndex="54"/>
+    <edge originNodeIndex="50" destinationNodeIndex="51"/>
+    <edge originNodeIndex="50" destinationNodeIndex="48"/>
+    <edge originNodeIndex="50" destinationNodeIndex="49"/>
+    <node index="51" x="378.95" z="377.5" y="0"/>
+    <edge originNodeIndex="51" destinationNodeIndex="54"/>
+    <edge originNodeIndex="51" destinationNodeIndex="55"/>
+    <edge originNodeIndex="51" destinationNodeIndex="52"/>
+    <edge originNodeIndex="51" destinationNodeIndex="47"/>
+    <edge originNodeIndex="51" destinationNodeIndex="48"/>
+    <edge originNodeIndex="51" destinationNodeIndex="49"/>
+    <edge originNodeIndex="51" destinationNodeIndex="50"/>
+    <edge originNodeIndex="51" destinationNodeIndex="53"/>
+    <node index="48" x="379" z="191.5" y="0"/>
+    <edge originNodeIndex="48" destinationNodeIndex="51"/>
+    <edge originNodeIndex="48" destinationNodeIndex="52"/>
+    <edge originNodeIndex="48" destinationNodeIndex="47"/>
+    <edge originNodeIndex="48" destinationNodeIndex="49"/>
+    <edge originNodeIndex="48" destinationNodeIndex="50"/>
+    <node index="49" x="192.95" z="191.5" y="0"/>
+    <edge originNodeIndex="49" destinationNodeIndex="50"/>
+    <edge originNodeIndex="49" destinationNodeIndex="51"/>
+    <edge originNodeIndex="49" destinationNodeIndex="48"/>
+    <node index="46" x="767" z="197.04999999999995" y="0"/>
+    <edge originNodeIndex="46" destinationNodeIndex="44"/>
+    <edge originNodeIndex="46" destinationNodeIndex="47"/>
+    <edge originNodeIndex="46" destinationNodeIndex="52"/>
+    <node index="45" x="760.95" z="389.5" y="0"/>
+    <edge originNodeIndex="45" destinationNodeIndex="44"/>
+    <edge originNodeIndex="45" destinationNodeIndex="46"/>
+    <edge originNodeIndex="45" destinationNodeIndex="47"/>
+    <edge originNodeIndex="45" destinationNodeIndex="52"/>
+    <edge originNodeIndex="45" destinationNodeIndex="55"/>
+    <node index="19" x="1347" z="1729.5" y="0"/>
+    <edge originNodeIndex="19" destinationNodeIndex="20"/>
+    <edge originNodeIndex="19" destinationNodeIndex="22"/>
+    <edge originNodeIndex="19" destinationNodeIndex="18"/>
+    <edge originNodeIndex="19" destinationNodeIndex="16"/>
+    <node index="20" x="1541" z="1729.5" y="0"/>
+    <edge originNodeIndex="20" destinationNodeIndex="21"/>
+    <edge originNodeIndex="20" destinationNodeIndex="23"/>
+    <edge originNodeIndex="20" destinationNodeIndex="22"/>
+    <edge originNodeIndex="20" destinationNodeIndex="18"/>
+    <edge originNodeIndex="20" destinationNodeIndex="19"/>
+    <node index="21" x="1729" z="1729.5" y="0"/>
+    <edge originNodeIndex="21" destinationNodeIndex="23"/>
+    <edge originNodeIndex="21" destinationNodeIndex="22"/>
+    <edge originNodeIndex="21" destinationNodeIndex="20"/>
+    <node index="18" x="1347" z="1539.5" y="0"/>
+    <edge originNodeIndex="18" destinationNodeIndex="19"/>
+    <edge originNodeIndex="18" destinationNodeIndex="20"/>
+    <edge originNodeIndex="18" destinationNodeIndex="22"/>
+    <edge originNodeIndex="18" destinationNodeIndex="24"/>
+    <edge originNodeIndex="18" destinationNodeIndex="17"/>
+    <edge originNodeIndex="18" destinationNodeIndex="16"/>
+    <node index="22" x="1541" z="1539.5" y="0"/>
+    <edge originNodeIndex="22" destinationNodeIndex="20"/>
+    <edge originNodeIndex="22" destinationNodeIndex="21"/>
+    <edge originNodeIndex="22" destinationNodeIndex="23"/>
+    <edge originNodeIndex="22" destinationNodeIndex="25"/>
+    <edge originNodeIndex="22" destinationNodeIndex="24"/>
+    <edge originNodeIndex="22" destinationNodeIndex="17"/>
+    <edge originNodeIndex="22" destinationNodeIndex="18"/>
+    <edge originNodeIndex="22" destinationNodeIndex="19"/>
+    <node index="23" x="1729" z="1538.5" y="0"/>
+    <edge originNodeIndex="23" destinationNodeIndex="21"/>
+    <edge originNodeIndex="23" destinationNodeIndex="25"/>
+    <edge originNodeIndex="23" destinationNodeIndex="24"/>
+    <edge originNodeIndex="23" destinationNodeIndex="22"/>
+    <edge originNodeIndex="23" destinationNodeIndex="20"/>
+    <node index="24" x="1535" z="1348.5" y="0"/>
+    <edge originNodeIndex="24" destinationNodeIndex="22"/>
+    <edge originNodeIndex="24" destinationNodeIndex="23"/>
+    <edge originNodeIndex="24" destinationNodeIndex="25"/>
+    <edge originNodeIndex="24" destinationNodeIndex="27"/>
+    <edge originNodeIndex="24" destinationNodeIndex="26"/>
+    <edge originNodeIndex="24" destinationNodeIndex="28"/>
+    <edge originNodeIndex="24" destinationNodeIndex="17"/>
+    <edge originNodeIndex="24" destinationNodeIndex="18"/>
+    <node index="25" x="1723" z="1348.5" y="0"/>
+    <edge originNodeIndex="25" destinationNodeIndex="23"/>
+    <edge originNodeIndex="25" destinationNodeIndex="27"/>
+    <edge originNodeIndex="25" destinationNodeIndex="26"/>
+    <edge originNodeIndex="25" destinationNodeIndex="24"/>
+    <edge originNodeIndex="25" destinationNodeIndex="22"/>
+    <node index="26" x="1535" z="1158.5" y="0"/>
+    <edge originNodeIndex="26" destinationNodeIndex="24"/>
+    <edge originNodeIndex="26" destinationNodeIndex="25"/>
+    <edge originNodeIndex="26" destinationNodeIndex="27"/>
+    <edge originNodeIndex="26" destinationNodeIndex="28"/>
+    <edge originNodeIndex="26" destinationNodeIndex="17"/>
+    <node index="27" x="1723" z="1157.5" y="0"/>
+    <edge originNodeIndex="27" destinationNodeIndex="25"/>
+    <edge originNodeIndex="27" destinationNodeIndex="26"/>
+    <edge originNodeIndex="27" destinationNodeIndex="24"/>
+    <node index="40" x="1346.95" z="375.5" y="0"/>
+    <edge originNodeIndex="40" destinationNodeIndex="41"/>
+    <edge originNodeIndex="40" destinationNodeIndex="33"/>
+    <edge originNodeIndex="40" destinationNodeIndex="35"/>
+    <edge originNodeIndex="40" destinationNodeIndex="37"/>
+    <edge originNodeIndex="40" destinationNodeIndex="39"/>
+    <edge originNodeIndex="40" destinationNodeIndex="42"/>
+    <node index="37" x="1539.95" z="191.04999999999995" y="0"/>
+    <edge originNodeIndex="37" destinationNodeIndex="35"/>
+    <edge originNodeIndex="37" destinationNodeIndex="36"/>
+    <edge originNodeIndex="37" destinationNodeIndex="38"/>
+    <edge originNodeIndex="37" destinationNodeIndex="39"/>
+    <edge originNodeIndex="37" destinationNodeIndex="40"/>
+    <node index="39" x="1346.95" z="186.5" y="0"/>
+    <edge originNodeIndex="39" destinationNodeIndex="40"/>
+    <edge originNodeIndex="39" destinationNodeIndex="35"/>
+    <edge originNodeIndex="39" destinationNodeIndex="37"/>
+    <edge originNodeIndex="39" destinationNodeIndex="42"/>
+    <node index="32" x="1720" z="772.5" y="0"/>
+    <edge originNodeIndex="32" destinationNodeIndex="34"/>
+    <edge originNodeIndex="32" destinationNodeIndex="33"/>
+    <edge originNodeIndex="32" destinationNodeIndex="31"/>
+    <node index="31" x="1526" z="772.5" y="0"/>
+    <edge originNodeIndex="31" destinationNodeIndex="32"/>
+    <edge originNodeIndex="31" destinationNodeIndex="34"/>
+    <edge originNodeIndex="31" destinationNodeIndex="33"/>
+    <edge originNodeIndex="31" destinationNodeIndex="41"/>
+    <edge originNodeIndex="31" destinationNodeIndex="42"/>
+    <edge originNodeIndex="31" destinationNodeIndex="30"/>
+    <node index="33" x="1526" z="582.5" y="0"/>
+    <edge originNodeIndex="33" destinationNodeIndex="31"/>
+    <edge originNodeIndex="33" destinationNodeIndex="32"/>
+    <edge originNodeIndex="33" destinationNodeIndex="34"/>
+    <edge originNodeIndex="33" destinationNodeIndex="36"/>
+    <edge originNodeIndex="33" destinationNodeIndex="35"/>
+    <edge originNodeIndex="33" destinationNodeIndex="40"/>
+    <edge originNodeIndex="33" destinationNodeIndex="41"/>
+    <edge originNodeIndex="33" destinationNodeIndex="30"/>
+    <node index="34" x="1720" z="575.5" y="0"/>
+    <edge originNodeIndex="34" destinationNodeIndex="32"/>
+    <edge originNodeIndex="34" destinationNodeIndex="36"/>
+    <edge originNodeIndex="34" destinationNodeIndex="35"/>
+    <edge originNodeIndex="34" destinationNodeIndex="33"/>
+    <edge originNodeIndex="34" destinationNodeIndex="31"/>
+    <edge originNodeIndex="34" destinationNodeIndex="32"/>
+    <node index="36" x="1720" z="389.5" y="0"/>
+    <edge originNodeIndex="36" destinationNodeIndex="34"/>
+    <edge originNodeIndex="36" destinationNodeIndex="38"/>
+    <edge originNodeIndex="36" destinationNodeIndex="37"/>
+    <edge originNodeIndex="36" destinationNodeIndex="35"/>
+    <edge originNodeIndex="36" destinationNodeIndex="33"/>
+    <node index="35" x="1534" z="389.5" y="0"/>
+    <edge originNodeIndex="35" destinationNodeIndex="33"/>
+    <edge originNodeIndex="35" destinationNodeIndex="34"/>
+    <edge originNodeIndex="35" destinationNodeIndex="36"/>
+    <edge originNodeIndex="35" destinationNodeIndex="38"/>
+    <edge originNodeIndex="35" destinationNodeIndex="37"/>
+    <edge originNodeIndex="35" destinationNodeIndex="39"/>
+    <edge originNodeIndex="35" destinationNodeIndex="40"/>
+    <edge originNodeIndex="35" destinationNodeIndex="41"/>
+    <node index="38" x="1723.95" z="184.5" y="0"/>
+    <edge originNodeIndex="38" destinationNodeIndex="36"/>
+    <edge originNodeIndex="38" destinationNodeIndex="37"/>
+    <edge originNodeIndex="38" destinationNodeIndex="35"/>
+  </navigation>
+</location>
